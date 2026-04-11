@@ -221,6 +221,12 @@ scrape_configs:
 
 ## Screenshots
 
+### MLflow (on DagsHub) — experiment runs
+![MLflow Runs](images/mlflow-runs.png)
+
+### MLflow — comparing runs across hyperparameters
+![MLflow Model Comparison](images/mlflow-model-comparision.png)
+
 ### AWS EC2 — Prometheus & Grafana instances
 ![EC2 Instances](images/EC2-instances-servers.png)
 
